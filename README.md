@@ -1,5 +1,3 @@
-# Tubes-OOP-K02-I
-Repository Tugas Besar Pemrograman Berorientasi Objek - K02-I
 # Nangor Blast
 
 Game Bomberman berbasis CLI dengan Java. Dibuat untuk Tugas Besar IF2010 Pemrograman Berorientasi Objek 2026/2027 (Kelompok K02-I).
@@ -23,6 +21,7 @@ make run     # menjalankan game
 make clean   # menghapus folder out/
 ```
 
+
 ## Struktur repository
 
 | Folder / file | Isi |
@@ -35,14 +34,14 @@ make clean   # menghapus folder out/
 
 ## Pembagian tugas
 
-| Peran | Anggota | Tanggung jawab |
-|---|---|---|
-| A | Kei | Core and Game Flow: setup repo, game loop dan thread, input keyboard, menu, game state, score dan timer, logging |
-| B | Abe | Player, Bomb, Explosion, Power-Up |
-| C | Ega | Enemy dan Boss (Hades) |
-| D | Amanda | Map, Block, Environment: block 3 jenis, loader dan validator map, mekanisme lingkungan (Lava Tile), renderer CLI dan HUD, README |
+| Peran | Anggota | NIM | Tanggung jawab |
+|---|---|---|---|
+| A | Khallisa Nadya Alqahtani | 18225046 | Core and Game Flow: setup repo, game loop dan thread, input keyboard, menu, game state, score dan timer, logging |
+| B | Abraham Handoko | 18225068 | Player, Bomb, Explosion, Power-Up |
+| C | Vandega Arozan Musholine | 18223010 | Enemy dan Boss (Hades) |
+| D | Fitria Novel Amanda | 18225088 | Map, Block, Environment: block 3 jenis, loader dan validator map, mekanisme lingkungan (Lava Tile), renderer CLI dan HUD, README |
 
-Rincian per task ada di `doc/pembagian-tugas.md` (versi PDF di folder `doc/`).
+Rincian per task ada di `doc/K2_I_PembagianTugas.pdf`.
 
 ## Status fitur
 
