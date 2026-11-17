@@ -21,7 +21,6 @@ make run     # menjalankan game
 make clean   # menghapus folder out/
 ```
 
-
 ## Struktur repository
 
 | Folder / file | Isi |
